@@ -1,0 +1,58 @@
+#image{
+    background:url('./pictures/bg5.png') rgba(35, 38, 54, 0.9);
+padding: 0px 50px 100px 50px;
+    background-size:cover ;
+    background-blend-mode: darken;
+}
+
+#image1{
+    background-image: url('./pictures/bg.jpg');
+    background-blend-mode: darken;
+    background-attachment: fixed;
+}
+.rounded{
+    background-color: #e1ecb8;
+}
+
+#carouselExampleControls img{
+    height:100px;
+    width:100px;
+    border-radius:200px;
+}
+
+#out{
+   
+    background-color: rgb(59, 59, 59);
+    color: white;
+}
+
+/* #inside{
+    height: 500px;
+    width: 50%;
+ 
+     position: absolute; 
+     left: 20%; 
+    border-radius: 20px;
+    margin-top: 150px;
+} */
+
+#Newsleter{
+    margin-top:50%;
+
+}
+#contactform .form-control{
+    
+    border: 1px solid black;
+    border-radius: 0px;
+    margin-bottom: 20px;
+}
+#ncc{
+ background-image: url('./pictures/background');
+}
+#menu a{
+    color: white;
+}
+#dcc{
+    background-image: url('./pictures/ffffffffffffffffffffccccccccccccccc.jfif');
+    background-size:cover;
+}

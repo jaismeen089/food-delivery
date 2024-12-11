@@ -1,0 +1,20 @@
+<html>
+    <head>
+        <title>First page</title>
+    </head>
+    <body>
+        <input type="text" id="t1" />
+        <input type="text" id="t2" />
+        <button onclick="f()">Add</button>
+    </body>
+    <script>
+        function f()
+        {
+            let n1=document.getElementById("t1").value;
+            let n2=document.getElementById("t2").value;
+            let r=Number(n1)+Number(n2);
+            alert(r);
+            
+        }
+    </script>
+</html>
